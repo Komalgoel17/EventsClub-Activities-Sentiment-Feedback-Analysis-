@@ -23,6 +23,6 @@ The app provides a smooth interface for students to submit their reviews and for
 - VADER (for sentiment analysis)
 
 ## Deployment
-  Frontend - Netlify
-  Backend - Render
+  - Frontend (Netlify)
+  - Backend (Render)
 
