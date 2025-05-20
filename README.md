@@ -15,7 +15,7 @@ The app provides a smooth interface for students to submit their reviews and for
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React
+- React + Vite
 - Tailwind CSS
 
 **Backend:**
